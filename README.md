@@ -3,7 +3,7 @@ Todo List App is a smart task list for everyday use.
 
 ![app image](images/image-1.png)
 
-## How To use
+## How To Use ?
 
 - Write a task want to add in the list as shown in the image below. Suppose 'Do Coding' is the task to add, write it and Click on **Do It** button.
 
