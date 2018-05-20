@@ -9,7 +9,7 @@ Todo List App is a smart task list for everyday use.
 
 ![app image](images/image-2.png)
 
-- The task will get add in the list as shown below.
+- The task will get added in the list as shown below.
 
 ![app image](images/image-3.png)
 
